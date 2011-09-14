@@ -1,0 +1,57 @@
+<project name="UniArchive" basedir="." default="build">
+	<property environment="env" />
+	<property name="bin.dir" value="bin" />
+	<property name="src.dir" value="src" />
+	<property name="lib.dir" value="lib" />
+	<property name="jar.file" value="UniArchive.jar" />
+	
+	<path id="build.class.path">
+		<fileset dir="${lib.dir}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<target name="clean">
+		<delete dir="${bin.dir}" />
+		<delete file="${jar.file}" />
+	</target>
+	
+	<target name="init">
+		<tstamp/>
+		<mkdir dir="${bin.dir}"/>
+	</target>
+	
+	<target name="build" depends="init">
+		<copy todir="${bin.dir}">
+			<fileset dir="${src.dir}">
+				<exclude name="**/*.java"/>
+			</fileset>
+		</copy>
+		
+		<javac srcdir="${src.dir}" destdir="${bin.dir}" includeantruntime="false">
+			<classpath refid="build.class.path" />
+		</javac>
+	</target>
+	
+	<target name="run" depends="jar">
+		<java fork="true" jar="${jar.file}" />
+	</target>
+		
+	<target name="jar" depends="build">
+		<jar destfile="${jar.file}">
+			<fileset dir="${bin.dir}"/>
+			<restrict>
+				<name name="**/*.class"/>
+				<archives>
+					<zips>
+						<fileset dir="${lib.dir}" includes="**/*.jar"/>
+					</zips>
+				</archives>
+			</restrict>
+			<manifest>
+				<attribute name="Main-Class" value="uniarchive.Main"/>
+				<attribute name="SplashScreen-Image" value="uniarchive/graphics/splash.png"/>
+			</manifest>
+		</jar>
+	</target>
+</project>

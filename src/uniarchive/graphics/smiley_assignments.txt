@@ -1,0 +1,227 @@
+[generic]
+
+pidgin/smile.png           :)      :-)
+pidgin/smile-big.png       :-D     :-d     :D      :d
+pidgin/sad.png             :-(     :(
+pidgin/wink.png            ;-)     ;)
+pidgin/tongue.png          :P      :-P     :-p     :p
+pidgin/shock.png           =-O     =-o
+pidgin/kiss.png            :-*
+pidgin/glasses-cool.png    8-)
+pidgin/embarrassed.png     :-[
+pidgin/crying.png          :'(
+pidgin/thinking.png        :-/     :-\
+pidgin/angel.png           O:-)    o:-)
+pidgin/shut-mouth.png      :-X
+pidgin/moneymouth.png      :-$
+pidgin/foot-in-mouth.png   :-!
+pidgin/shout.png           >:o     >:O
+pidgin/skywalker.png       C:-)    c:-)    C:)     c:)
+pidgin/monkey.png          :-(|)  :(|)     8-|)
+pidgin/cyclops.png         O-) o-)
+
+
+[msn]
+
+# Following Windows Live Messenger 8.1
+
+pidgin/smile.png           :)      :-)
+pidgin/smile-big.png       :D      :d :-D :-d
+pidgin/wink.png            ;)      ;-)
+pidgin/shock.png           :-O     :-o :O :o
+pidgin/tongue.png          :P      :p :-P :-p
+pidgin/glasses-cool.png    (H)     (h)
+pidgin/angry.png           :@      :-@
+pidgin/embarrassed.png     :$      :-$
+pidgin/confused.png        :S      :s :-S :-s
+pidgin/sad.png             :(      :-(
+pidgin/crying.png          :'(
+pidgin/neutral.png         :|      :-|
+pidgin/devil.png           (6)
+pidgin/angel.png           (A)     (a)
+pidgin/love.png            (L)     (l)
+pidgin/love-over.png       (U)     (u)
+pidgin/msn.png             (M)     (m)
+pidgin/cat.png             (@)
+pidgin/dog.png             (&)
+pidgin/moon.png            (S)
+pidgin/star.png            (*)
+pidgin/film.png            (~)
+pidgin/musical-note.png    (8)
+pidgin/mail.png            (E)     (e)
+pidgin/rose.png            (F)     (f)
+pidgin/rose-dead.png       (W)     (w)
+pidgin/clock.png           (O)     (o)
+pidgin/kiss.png            (K)     (k)
+pidgin/present.png         (G)     (g)
+pidgin/cake.png            (^)
+pidgin/camera.png          (P)     (p)
+pidgin/lamp.png            (I)     (i)
+pidgin/coffee.png          (C)     (c)
+pidgin/phone.png           (T)     (t)
+pidgin/hug-left.png        ({)
+pidgin/hug-right.png       (})
+pidgin/beer.png            (B)     (b)
+pidgin/drink.png           (D)     (d)
+pidgin/boy.png             (Z)     (z)
+pidgin/girl.png            (X)     (x)
+pidgin/good.png            (Y)     (y)
+pidgin/bad.png             (N)     (n)
+pidgin/vampire.png         :[      :-[
+pidgin/goat.png            (nah)
+pidgin/sun.png             (#)
+pidgin/rainbow.png         (R)     (r)
+pidgin/quiet.png           :-#
+pidgin/teeth.png           8o|
+pidgin/glasses-nerdy.png   8-|
+pidgin/sarcastic.png       ^o)
+pidgin/secret.png          :-*
+pidgin/sick.png            +o(
+pidgin/snail.png           (sn)
+pidgin/turtle.png          (tu)
+pidgin/plate.png           (pl)
+pidgin/bowl.png            (||)
+pidgin/pizza.png           (pi)
+pidgin/soccerball.png      (so)
+pidgin/car.png             (au)
+pidgin/airplane.png        (ap)
+pidgin/umbrella.png        (um)
+pidgin/island.png          (ip)
+pidgin/computer.png        (co)
+pidgin/mobile.png          (mp)
+pidgin/brb.png             (brb)
+pidgin/rain.png            (st)
+pidgin/highfive.png        (h5)
+pidgin/coins.png           (mo)
+pidgin/sheep.png           (bah)
+pidgin/dont-know.png       :^)
+pidgin/thinking.png        *-)
+pidgin/thunder.png         (li)
+pidgin/party.png           <:o)
+pidgin/eyeroll.png         8-)
+pidgin/yawn.png            |-) 
+pidgin/bunny.png           ('.')
+pidgin/skywalker.png     C:-)    c:-)    C:)     c:)
+pidgin/monkey.png        :-(|)  :(|)
+
+# Hidden MSN emotes
+
+pidgin/cigarette.png      	(ci)    (CI)
+pidgin/handcuffs.png       (%)
+pidgin/console.png			(xx)    (XX)
+pidgin/fingers-crossed.png	(yn)    (YN)
+
+
+[yahoo]
+
+# Following Yahoo! Messenger 8.1
+
+pidgin/smile.png           :)      :-)
+pidgin/question.png        :-/     :-\
+pidgin/shock.png           :-O     :O      :-o     :o 
+pidgin/devil.png           >:)
+pidgin/angel.png           O:-)    o:-)    0:-)
+pidgin/sick.png            :-&
+pidgin/yawn.png            (:|
+pidgin/hypnotized.png      @-)
+pidgin/on-the-phone.png    :)]
+pidgin/sad.png             :(      :-(
+pidgin/in-love.png         :x      :-x     :X      :-X
+pidgin/angry.png           X-(     x-(     X(      x(
+pidgin/crying.png          :((
+pidgin/glasses-nerdy.png   :-B     :-b
+pidgin/quiet.png           :-$
+pidgin/drool.png           =P~     =p~
+pidgin/lying.png           :^O     :^o
+pidgin/call-me.png         :-c
+pidgin/wink.png            ;)      ;-)
+pidgin/embarrassed.png     :">
+pidgin/mean.png            :->     :>
+pidgin/laugh.png           :))     :-))
+pidgin/bye.png             =;
+pidgin/arrogant.png        [-(
+pidgin/thinking.png        :-?
+pidgin/waiting.png         :-w     :-W
+pidgin/at-wits-end.png     ~x(     ~X(
+pidgin/smile-big.png       :D      :-D     :d      :-d
+pidgin/tongue.png          :-P     :P      :-p     :p
+pidgin/glasses-cool.png    B-)     b-)
+pidgin/neutral.png         :|      :-|
+pidgin/sleepy.png          I-)     i-)     |-)
+pidgin/clown.png           :o)     :O)
+pidgin/doh.png             #-o     #-O
+pidgin/weep.png            :-<
+pidgin/go-away.png         :-h
+pidgin/lashes.png          ;;)
+pidgin/kiss.png            :-*     :*
+pidgin/confused.png        :-S     :-s
+pidgin/sarcastic.png       /:)
+pidgin/eyeroll.png         8-|
+pidgin/silly.png           8-}
+pidgin/clap.png            =D>     =d>
+pidgin/mad-tongue.png      >:P     >:p
+pidgin/time-out.png        :-t     :-T
+pidgin/hug-left.png        >:D<    >:d<
+pidgin/love-over.png       =((
+pidgin/sweat.png           #:-S    #:-s
+pidgin/rotfl.png           =)) :-j :-J 
+pidgin/loser.png           L-)     l-)
+pidgin/party.png           <:-P    <:-p
+pidgin/nailbiting.png      :-SS	:-Ss	:-sS	:-ss
+pidgin/cowboy.png          <):)
+pidgin/desire.png          8->
+pidgin/skywalker.png     C:-)    c:-)    C:)     c:)
+pidgin/monkey.png        :-(|)  :(|)
+
+# Hidden Yahoo emotes
+
+pidgin/alien.png           =:)     >-)
+pidgin/beat-up.png         b-(     B-(
+pidgin/chicken.png         ~:>
+pidgin/coffee.png          ~o)     ~O)
+pidgin/cow.png             3:-O    3:-o
+pidgin/dance.png           \:D/   \:d/
+pidgin/rose.png            @};-
+pidgin/dont-know.png       :-L     :-l
+pidgin/skeleton.png        8-X     8-x
+pidgin/lamp.png            *-:)
+pidgin/monkey.png          :(|)
+pidgin/coins.png           $-)
+pidgin/peace.png           :)>-
+pidgin/pig.png             :@)
+pidgin/pray.png            [-o<    [-O<
+pidgin/pumpkin.png         (~~)
+pidgin/shame.png           [-X     [-x
+pidgin/flag.png            **==
+pidgin/clover.png          %%-
+pidgin/musical-note.png    :-"
+pidgin/giggle.png          ;))
+pidgin/worship.png         ^:)^
+pidgin/star.png            (*)
+pidgin/waving.png          >:/
+pidgin/talktohand.png      :-@
+
+# Only available after activating the Yahoo! Fighter IMVironment
+
+pidgin/male-fighter1.png   o->     O->
+pidgin/male-fighter2.png   o=>     O=>
+pidgin/female-fighter.png  o-+     O-+
+pidgin/yin-yang.png        (%)
+
+
+[gtalk]
+
+pidgin/smile.png                 :)    :-)    =)
+pidgin/smile-big.png             :D    :-D    =D
+pidgin/wink.png                  ;)    ;-)    ;^)
+pidgin/shock.png                 :-o
+pidgin/tongue.png                :P    :-P
+pidgin/glasses-cool.png          B-)
+pidgin/angry.png                 X-(
+pidgin/sad.png                   :(
+pidgin/crying.png                :'(
+pidgin/neutral.png               :-|
+pidgin/thinking.png              :-/
+pidgin/love.png                  <3
+pidgin/monkey.png                :(|)
+pidgin/victory.png               \m/

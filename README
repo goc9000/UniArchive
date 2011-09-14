@@ -1,0 +1,22 @@
+UniArchive is a cross-platform solution for importing Instant Messaging
+(IM) archives from a variety of clients (e.g. Yahoo, Digsby, etc.) into
+a unified SQLite-based format, as well as browsing through the resulting
+unified archive.
+
+Currently UniArchive can import from the following clients:
+
+- Yahoo Messenger
+- MSN Messenger
+- Digsby
+- Pidgin (aka GAIM)
+
+Note that UniArchive intentionally seeks to only preserve that
+information which is most important and supported by all clients. As
+such, fancy formatting is removed, and only the smileys are kept apart
+from the actual conversation text.
+
+While UniArchive is designed to try to work around the brokenness of
+some of the formats, as well as make educated guesses and consult you
+when appropriate, there is no guarantee that it will perform an
+error-free conversion. Users are advised to also keep copies of the
+IM archives in their original format.
